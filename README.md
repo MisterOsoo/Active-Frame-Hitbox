@@ -22,7 +22,7 @@ Build reusable combat systems using independent Hitbox, Hurtbox, and Health comp
 
 ### HealthComponent
 - Reusable health management
-- Handles damage and healing
+- Handles damage
 - Supports character death logic
 - Can be attached to different characters and enemies
 
